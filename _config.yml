@@ -251,7 +251,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Schran]
-  first_name: [Christoph]
+  first_name: [Christoph, C.]
 
   style: apa
   locale: en

@@ -20,3 +20,5 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my webpage!
 
 I am a theoretical chemist with experience at academic institutions developing computer simulations for molecules and materials.
+
+{% twitter https://twitter.com/ChristophSchran maxwidth=500 limit=5 %}

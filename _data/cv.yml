@@ -10,6 +10,7 @@
 
 - title: Professional Experience
   type: time_table
+  contents:
     - title: PostDoc
       institution: Yusuf Hamied Department of Chemistry, University of Cambridge, UK
       year: Since 2020
@@ -17,6 +18,7 @@
         - Machine Learning Potentials for Complex Aqueous Systems
         - with Prof. A. Michaelides
         - Feodor Lynen fellow of the Alexander-von-Humboldt Foundation
+  contents:
     - title: PostDoc
       institution: Department of Physics and Astronomy, University College London, UK
       year: 2020
@@ -24,12 +26,14 @@
         - Machine Learning Potentials for Complex Aqueous Systems
         - with Prof. A. Michaelides
         - Feodor Lynen fellow of the Alexander-von-Humboldt Foundation
+  contents:
     - title: PostDoc
       institution: Faculty of Mathematics and Physics, Charles University, Czech Republic
       year: 2019
       description:
         - Committee Neural Network Potentials
         - with Dr. O. Marsalek
+  contents:
     - title: PhD
       institution: Center for Theoretical Chemistry, Ruhr-Universität Bochum, Germany
       year: 2016--2019
@@ -39,6 +43,7 @@ Quantum Solvents
         - Supervisor Prof. D. Marx, Graduation with distinction
         - Member of the Graduate School Solvation Science of the Cluster of Excellence RESOLV
         - Fellow of the “Studienstiftung des Deutschen Volkes” & “Verband der Chemischen Industrie”
+  contents:
     - title: Visiting graduate student
       institution: École Normale Supérieure, Paris, France
       year: 2017
@@ -46,6 +51,7 @@ Quantum Solvents
         - Quantum Dynamics via the Phase Integration Method
         - with Prof. R. Vuilleumier
         - Supported by a travel grant of the German Research Foundation
+  contents:
     - title: Visiting graduate student
       institution: Stanford University, Palo Alto, USA
       year: 2015
@@ -65,12 +71,14 @@ Bond
         - GPA 1.0*, best graduate of the year (ranking 1/38).
         - Prize of the Ruhr-Universität for best graduate of the Faculty of Chemistry and Biochemistry.
         - Fellow of the “Studienstiftung des Deutschen Volkes” & “Bildungsfond der Ruhr-Universität”.
+  contents:
     - title: Bachelor of Science in Chemistry
       institution: Ruhr-Universität Bochum, Germany
       year: 2010--2013
       description:
         - GPA 1.0*, best graduate of the year (ranking 1/55).
         - August-Wilhelm-von-Hofmann fellow of the German Chemical Society
+  contents:
     - title: Exchange Semester
       institution: University of Glasgow, Scotland
       description:
@@ -84,12 +92,14 @@ Bond
       year: Since 2020
       description:
         - Natural Sciences Tripos Part IB Chemistry A
+  contents:
     - title: Supervision of PhD students
       institution: University of Cambridge, UK
       year: Since 2020
       description:
         - Patrick Rowe, Fabian L. Thiemann, Niamh O’Neill, Samuel Brookes
         - In the group of Prof. A. Michaelides
+  contents:
     - title: Teaching assistant
       institution: Center for Theoretical Chemistry, Ruhr-Universität Bochum, Germany
       year: 2011--2019
@@ -104,11 +114,13 @@ Bond
       year: Since 2021
       description:
         - Organisation of weekly seminars with focus on machine learning in molecular simulations
+  contents:
     - title: Member of the management team of the Lennard-Jones Centre
       institution: University of Cambridge, UK
       year: Since 2021
       description:
         - Connecting researchers within Cambridge with interest in materials modelling
+  contents:
     - title: Member and Vice-Speaker (2018–2016) of the “Young Chemist Association” Bochum
       institution: Ruhr-Universität Bochum, Germany
       year: 2014--2019

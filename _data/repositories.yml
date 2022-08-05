@@ -4,3 +4,8 @@ github_users:
 github_repos:
   - MarsalekGroup/aml
   - cp2k/cp2k
+  - cschran/nn-dms-supporting-data
+  - water-ice-group/simple-MLP
+  - water-ice-group/single-adatom-liquid-theory
+  - water-ice-group/phase-diagram-monolayer-water
+  - MarsalekGroup/paper-c-nnp

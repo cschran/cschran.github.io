@@ -33,7 +33,7 @@
         - with Dr. O. Marsalek
     - title: PhD
       institution: Center for Theoretical Chemistry, Ruhr-Universität Bochum, Germany
-      year: 2016--2019
+      year: 2016-2019
       description:
         - Properties of Hydrogen Bonding at Ultra--Low Temperatures in Superfluid Quantum Solvents
         - Supervisor Prof. D. Marx, Graduation with distinction
@@ -59,18 +59,19 @@
   contents:
     - title: Master of Science in Chemistry
       institution: Ruhr-Universität Bochum, Germany
-      year: 2013--2015
+      year: 2013-2015
       description:
         - GPA 1.0*, best graduate of the year (ranking 1/38).
         - Prize of the Ruhr-Universität for best graduate of the Faculty of Chemistry and Biochemistry.
         - Fellow of the “Studienstiftung des Deutschen Volkes” & “Bildungsfond der Ruhr-Universität”.
     - title: Bachelor of Science in Chemistry
       institution: Ruhr-Universität Bochum, Germany
-      year: 2010--2013
+      year: 2010-2013
       description:
         - GPA 1.0*, best graduate of the year (ranking 1/55).
         - August-Wilhelm-von-Hofmann fellow of the German Chemical Society
     - title: Exchange Semester
+      year: 2012
       institution: University of Glasgow, Scotland
       description:
         - Supported by a travel grant of the Erasmus programme
@@ -91,7 +92,7 @@
         - In the group of Prof. A. Michaelides
     - title: Teaching assistant
       institution: Center for Theoretical Chemistry, Ruhr-Universität Bochum, Germany
-      year: 2011--2019
+      year: 2011-2019
       description:
         - Supervision of Bachelor and Master student projects and weekly tutorials
 
@@ -110,7 +111,7 @@
         - Connecting researchers within Cambridge with interest in materials modelling
     - title: Member and Vice-Speaker (2018–2016) of the “Young Chemist Association” Bochum
       institution: Ruhr-Universität Bochum, Germany
-      year: 2014--2019
+      year: 2014-2019
       description:
         - Organisation of lectures, workshops, and events for students and the general public on topics such as the “disposal of chemical weapons in Syria”, or “sustainability in science”
 
@@ -118,27 +119,24 @@
   type: time_table
   contents:
     - title: Postdoctoral Funding
-    - year: 2020--2022
+    - year: 2020-2022
       items: 
         - Feodor Lynen fellowship of the Alexander-von-Humboldt Foundation (∼70,000€)
     - title: Doctoral Funding
-    - year: 2016--2018
+    - year: 2016-2018
       items: 
         - Studienstiftung des Deutschen Volkes (∼52,000€)
-    - title: Doctoral Funding
-    - year: 2016--2018
+    - year: 2016-2018
       items: 
         - Verband der Chemischen Industrie (∼45,000€)
     - title: Undergraduate Funding
-    - year: 2014--2015
+    - year: 2014-2015
       items: 
         - Studienstiftung des Deutschen Volkes (∼3,600€) including travel grant (∼9,000€)
-    - title: Undergraduate Funding
-    - year: 2013--2014
+    - year: 2013-2014
       items: 
         - Bildungsfond of the Ruhr-Universität Bochum (∼3,600€)
-    - title: Undergraduate Funding
-    - year: 2012--2013
+    - year: 2012-2013
       items: 
         - August-Wilhelm-von-Hofmann sholarship of the German Chemical Society (∼5,400€)
 

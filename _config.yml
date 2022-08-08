@@ -82,7 +82,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.ch.cam.ac.uk/person/cs2121 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -98,8 +98,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+  Please reach out via twitter if you want to get in touch.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -107,7 +106,7 @@ contact_note: >
 google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: ej9QS5Et7hE3BmLZiG52EKZZx93xiDvuUVbZ_-HC6ac # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------

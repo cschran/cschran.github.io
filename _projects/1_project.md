@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Potentials
 description: Learning structure-energy relations
-img: assets/img/publication_preview/cnnp.png
+img: assets/img/mlp-project.png
 importance: 1
 category: work
 ---

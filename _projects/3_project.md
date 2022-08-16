@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Aqueous Phase
+title: Insight into Aqueous Phase
 description: Understanding complex aqueous systems
-img: assets/img/publication_preview/simple-mlp.png
+img: assets/img/aqueous-phase-project.png
 importance: 3
 category: work
 ---

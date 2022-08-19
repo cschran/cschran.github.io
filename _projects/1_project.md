@@ -29,3 +29,7 @@ Our group uses neural network based approaches and has a strong background in au
 </div>
 
 The recent advances in the field of machine learning potentials have only now opened up the door to investigate many challenging phenomena with great prospect for future work.
+<div class="publications">
+  <h2>Selected Publications</h2>
+  {% bibliography -f papers -q @*[mlp=true]* %}
+</div>

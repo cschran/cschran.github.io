@@ -8,3 +8,7 @@ category: work
 ---
 
 Soon to come...
+<div class="publications">
+  <h2>Selected Publications</h2>
+  {% bibliography -f papers -q @*[cc=true]* %}
+</div>

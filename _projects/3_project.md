@@ -31,3 +31,8 @@ TODO
 <div class="caption">
     Hexatic phase of monolater confined water. The hexatic phase is neither a solid nor a liquid, but an intermediate, which agrees with previous theories about two-dimensional materials. It is characterized by almost freely rotating but immobile water molecules.
 </div>
+
+<div class="publications">
+  <h2>Selected Publications</h2>
+  {% bibliography -f papers -q @*[aqueous=true]* %}
+</div>

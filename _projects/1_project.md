@@ -15,17 +15,17 @@ Our group uses neural network based approaches and has a strong background in au
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/publication_preview/cnnp.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mlp-nnp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/todo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mlp-project.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/todo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mlp-QbC.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Overview of the machine learning approaches used in our research. Left: Aritecture of neural network potentials. Middle: Schematics of committee neural network potentials. Right: Concept of the active learning technique query by committee.
 </div>
 
 The recent advances in the field of machine learning potentials have only now opened up the door to investigate many challenging phenomena with great prospect for future work.

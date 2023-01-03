@@ -17,14 +17,15 @@
       description:
         - Machine Learning Potentials for Complex Aqueous Systems
         - with Prof. A. Michaelides
-        - Feodor Lynen fellow of the Alexander-von-Humboldt Foundation
+        - Feodor Lynen research fellow of the Alexander-von-Humboldt Foundation (01/2020-04/2023)
+        - Walter Benjamin research fellow of the DFG, German Research Foundation (since 10/2022)
     - title: PostDoc
       institution: Department of Physics and Astronomy, University College London, UK
       year: 2020
       description:
         - Machine Learning Potentials for Complex Aqueous Systems
         - with Prof. A. Michaelides
-        - Feodor Lynen fellow of the Alexander-von-Humboldt Foundation
+        - Feodor Lynen research fellow of the Alexander-von-Humboldt Foundation
     - title: PostDoc
       institution: Faculty of Mathematics and Physics, Charles University, Czech Republic
       year: 2019
@@ -79,13 +80,18 @@
 - title: Teaching and Supervision
   type: time_table
   contents:
+    - title: Lecture course (12 lectures) on Frontiers in Atomistic Simulation Techniques
+      institution: University of Cambridge, UK
+      year: Since 2022
+      description:
+        - Natural Sciences Tripos Part III Chemistry
     - title: Senior demonstrator & supervisions for Clare College
       institution: University of Cambridge, UK
       year: Since 2020
       description:
         - Natural Sciences Tripos Part IB Chemistry A
     - title: Supervision of PhD students
-      institution: University of Cambridge, UK
+      institution: University of Cambridge & University College London, UK
       year: Since 2020
       description:
         - Patrick Rowe, Fabian L. Thiemann, Niamh O’Neill, Samuel Brookes
@@ -119,9 +125,12 @@
   type: time_table
   contents:
     - title: Postdoctoral Funding
+    - year: Since 2022
+      items:
+        - Walter Benjamin fellowship of the DFG, German Research Foundation (∼84,000€)
     - year: 2020-2022
-      items: 
-        - Feodor Lynen fellowship of the Alexander-von-Humboldt Foundation (∼70,000€)
+      items:
+        - Feodor Lynen fellowship of the Alexander-von-Humboldt Foundation (∼91,000€)
     - title: Doctoral Funding
     - year: 2016-2018
       items: 
@@ -143,6 +152,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - Thomas Young Centre Early Career Award
     - year: 2021
       items: 
         - College Research Associate at Clare College, University of Cambridge
